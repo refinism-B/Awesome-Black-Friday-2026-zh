@@ -1,7 +1,7 @@
 > [!NOTE]
 > - 本清單為 [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) 的中文翻譯，僅供輔助閱讀。
 > - 翻譯由 Claude Sonnet 5.5（`claude-sonnet-5-5`）自動產生，建議搭配原版查看，如有歧異以原版為準。
-> - 中文版最後更新：2026-11-22 01:45（UTC+8）
+> - 中文版最後更新：2026-11-22 06:55（UTC+8）
 
 <!-- translation-body -->
 
@@ -141,6 +141,7 @@
 | ⌨️ | [1DevTool](https://1devtool.com/pricing?utm_source=tonybf) | 適用於 Mac、Windows 與 Linux 的 AI 程式開發代理桌面工作台：並排執行 Claude Code、Codex、Gemini CLI 與其他 CLI，以團隊方式向它們下達任務，內建瀏覽器、資料庫用戶端與 git。 | 一次性買斷 Pro 授權享 **50% OFF**，使用折扣碼 **BFDEALS50**：1 台裝置 ~~$29~~ **$14.50**，3 台 ~~$59~~ **$29.50**，5 台 ~~$89~~ **$44.50**。2026 年 11/19 – 11/29，限前 100 筆訂單。 |
 | 🖱️ | [Hoverify](https://tryhoverify.com/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | 為網頁開發者打造的一體化瀏覽器擴充功能：在同一個工具列中檢查、編輯、測試、除錯、擷取並稽核任何網站，也能讓你的 AI 程式開發代理透過 MCP 使用相同的工具。支援 Chrome 與 Firefox。 | 所有方案享 **30% OFF**，結帳時自動套用，無需折扣碼：年繳 ~~$35~~ **$24.50**，終身 ~~$99~~ **$69.30**。**2026 年 11 月 20 日**開始 |
 | 🧰 | [Devkito](https://devkito.com/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | 122 種開發者工具整合在一個離線桌面應用程式中，支援 Mac、Windows 和 Linux：JSON、JWT、regex、Base64、雜湊、cURL 轉程式碼、HTTP 用戶端、DNS 等，只需一個快捷鍵即可開啟。 | 所有一次性授權 **50% OFF**，使用折扣碼 **BF2026**（從價格頁面進入會自動套用）：1 台電腦 ~~$10~~ **$5**，2 台 ~~$15~~ **$7.50**，5 台 ~~$30~~ **$15**。至 2026 年 12/2 太平洋時間晚上 11:59 止 |
+| 🗄️ | [Layerbase](https://layerbase.com/pricing) | 採固定月費的無伺服器資料庫：橫跨 19 種雲端引擎，支援 Postgres、MySQL、Redis、Valkey、ClickHouse、Qdrant、Meilisearch 等，無流出流量費用，也不計量用量。 | 首月 **50% OFF**：**BFSOLO26** = Solo 首月 $2.50（之後每月 $5），**BFPRO26** = Pro 首月 $7.50（之後每月 $15）。每組折扣碼限前 50 次兌換。2026 年 11/30 結束。 |
 
 
 ⬆️ | [回到頂端](#目錄)
@@ -277,7 +278,7 @@
 | 🎤 | [Murmur](https://saymurmur.app/black-friday?utm_source=tonydinh&utm_campaign=bf2026) | 在 Mac 上本機執行的聽寫與會議筆記工具：按住右側 Command 鍵說話，乾淨的文字就會出現在任何應用程式中。支援 Parakeet 或 Whisper，最多 99 種語言，可離線使用，也不會有機器人加入你的通話。 | **37% OFF**：使用折扣碼 **BF2026** 為 ~~$19~~ **$12**（原價 $29），一次性購買，最多可用於 3 台 Mac。2026 年 11/24 – 12/1 |
 | 🎞️ | [Yaptake](https://yaptake.com/#pricing) | 運作方式像文件的 Mac 影片編輯器：刪除逐字稿中的文字即可從影片中剪掉對應片段，縮短停頓並燒錄字幕。模型在你的 Mac 上執行，前三次匯出免費。 | 使用折扣碼 **YAPTAKEBF26** 首年 **50% OFF**：月繳 ~~$9.99~~ **$4.99**/月，為期 12 個月；年繳 ~~$79~~ **$39.50**（首年）。限新訂閱者，2026 年 11/18 – 12/2（太平洋時間）。 |
 | 🎙️ | [Thinkdown](https://thinkdown.app) | 適用於 iPhone、iPad、Mac、Apple Watch 與網頁的 AI 語音日記與語音筆記。 | Pro 年訂閱首年 **33% OFF**：~~$59.99~~ **$39.99 USD**，無需折扣碼（App Store）。限新訂閱者，至 2026 年 12 月 31 日止。 |
-| 🖊️ | [Halopen](https://halopen.com/pricing/?ref=awesome-bf) | 原生 macOS 語音聽寫：按住 fn、開口說話，您說的內容就會輸入到任何應用程式的游標處，包括終端機與編輯器。預設為逐字轉錄，在 Apple Silicon 上可選擇裝置端轉錄。14 天試用，無需信用卡。 | 首次付款享 **30% OFF**，使用折扣碼 **HOLIDAY**（黑色星期五與假期特賣，即日起 – 12/31, 2026）：終身方案 ~~$499~~ $349.30，年繳方案 ~~$179~~ 首年 $125.30，月繳方案 ~~$19~~ 首月 $13.30 |
+| 🖊️ | [Halopen](https://halopen.com/pricing/?ref=awesome-bf) | 原生 macOS 聽寫工具：按住 fn 說話，您說的內容就會輸入到任何應用程式的游標處，包含終端機和編輯器。預設逐字轉錄，在 Apple Silicon 上可選用裝置端轉錄。14 天試用，無需信用卡。 | 使用折扣碼 **HOLIDAY** 首次付款享 **30% OFF**（黑色星期五與假期特賣，即日起至 2026 年 12/31）：終身方案 ~~$199~~ $139.30，年繳方案第一年 ~~$99~~ $69.30，月繳方案首月 ~~$12~~ $8.40 |
 | ✍️ | [Glifa](https://glifa.app/?ref=bf-awesome) | 可以隨意向它提問的 Mac Markdown 編輯器：AI 的修改會以提案形式呈現，讓你逐項保留或復原，並使用你已有的 AI（Claude Code、Codex、Apple Intelligence、本機模型或你自己的 API 金鑰）。純 .md 檔案，內建數學公式與 Mermaid 支援。 | **33% OFF**，無需折扣碼：~~$14.99~~ **$9.99** 一次性買斷，最多可用於 3 台 Mac。**2026 年 11/20 – 11/30**（太平洋時間） |
 | 📸 | [CheckCam](https://checkcam.zorrinapps.com/#black-friday) | 快速拍下照片提醒，又不會讓相簿變得雜亂。CheckCam 會自動刪除臨時照片，除非你將它們釘選。 | 終身版 $7.49 USD（原價 $14.99），使用折扣碼 BFCM26。有效期限至 2026 年 12 月 1 日（太平洋時間）。 |
 | 🎥 | [XGetter](https://xgetter.com/?utm_source=trungdq88#pricing) | 適用於 Windows、macOS 和 Linux 的影片與音訊下載工具。支援從 70+ 個平台（YouTube、TikTok、Facebook、Instagram、X/Twitter、Bilibili 等）下載，最高可達 8K，支援播放清單、頻道和批次下載，且無浮水印。 | 所有方案 **30% OFF**，使用折扣碼 **BF2026**：Pro ~~$10~~ **$7**，Extended ~~$15~~ **$10.50**。至 2026 年 12/2 止 |
