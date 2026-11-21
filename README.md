@@ -488,7 +488,7 @@
 | ✉️ | [Faivelo](https://faivelo.com/black-friday?utm_source=github&utm_medium=deal_listing&utm_campaign=tonybf) | 適用於您自有網域的電子郵件代管。單一方案涵蓋無限個信箱、別名與網域，並包含網頁郵件與行事曆。 | **80% OFF**：整年只要 $12（~~$60~~），只要持續訂閱，續約價仍為 $12。無需折扣碼。僅限新客戶，前 500 個帳號，至 2026 年 12/1 止 |
 | 💡 | [IvaBoard](https://ivaboard.com/lifetime/) | 為 SaaS 團隊與代理商打造的客戶意見回饋看板、投票、產品路線圖、更新日誌與候補名單。白標入口網站可使用您自己的網域。投票者與團隊成員不限人數。 | 使用折扣碼 **BF30**，**終身方案 30% OFF**。託管 Solo，一次付費：第 1 階段 €55 → €38.50（第 1 階段授權售完為止）；第 2 階段 €66 → €46.20；第 3 階段 €109 → €76.30。優惠於 11/30, 2026 太平洋時間晚上 11:59 結束。 |
 | 📣 | [Upwip](https://upwip.com/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | 專為創辦人打造的一站式產品管理與意見回饋套件。收集客戶意見、規劃公開路線圖、發布更新日誌、撰寫文件，並在您自己的自訂網域上以即時聊天支援使用者。 | 使用折扣碼 **BF2026** 所有方案 **30% OFF**：年繳 Launch ~~$84~~ **$58.80/年**，Growth ~~$288~~ **$201.60/年**，Scale ~~$468~~ **$327.60/年**；終身 Launch ~~$99~~ **$69.30**，Growth ~~$299~~ **$209.30**，Scale ~~$699~~ **$489.30**（至 2026 年 12/2） |
-
+| 💼 | [BundleWP](https://bundlewp.com/complete-business-software-bundle/) | Complete business software bundle — 11 products: restaurant system, e-commerce system, billing, WordPress plugins & tools. Lifetime access. | 87% OFF — $129 (regular $1,029) with code BUNDLE129, ends Dec 1, 2026 |
 
 ⬆️ | [回到頂端](#目錄)
 
