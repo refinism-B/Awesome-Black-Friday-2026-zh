@@ -1,7 +1,7 @@
 > [!NOTE]
 > - 本清單為 [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) 的中文翻譯，僅供輔助閱讀。
 > - 翻譯由 Claude Sonnet 5.5（`claude-sonnet-5-5`）自動產生，建議搭配原版查看，如有歧異以原版為準。
-> - 中文版最後更新：2026-11-23 02:20（UTC+8）
+> - 中文版最後更新：2026-11-23 07:45（UTC+8）
 
 <!-- translation-body -->
 
@@ -103,6 +103,7 @@
 | 🔄 | [Synclet](https://synclet.dev/) | 跨 macOS 與 Linux 的端對端加密 dotfile 與 Mac 應用程式設定同步，可使用 Synclet Cloud 或您自己的 Dropbox。 | 一次性授權 **50% OFF**（~~$14.99~~ **$7.49**），結帳時自動套用，無需折扣碼。**11/20 – 12/1, 2026**。 |
 | 🌀 | [Warplet](https://warplet.app/) | 原生 macOS 應用程式，一鍵將 ChatGPT、Claude、Perplexity 和 Grok 等託管式 AI 用戶端連接到您的本機 MCP 伺服器。 | 年繳方案第一年 **40% OFF**（~~$14.99~~ **$8.99**，續訂價為 $14.99/年），使用折扣碼 **BLACKFRIDAY2026**。**11/20 – 12/1, 2026**。 |
 | 🐼 | [BabaPic](https://www.babapic.cc/) | Mac 批次圖片壓縮與格式轉換工具，一次完成壓縮、轉換、調整尺寸和重新命名，完全在本機執行。 | Pro 版 50% OFF，使用折扣碼 **BABAPIC2026**：一次性購買 $19 → $9.50（11/22 – 12/31, 2026） |
+| 📡 | [LLM Radar](https://llm-radar-eta.vercel.app/?utm_source=awesome-black-friday&utm_medium=deal-list&utm_campaign=bf2026) | Mac 上本機 AI 的活動監視器。顯示 Ollama、LM Studio、MLX 和 llama.cpp 在記憶體中載入了哪些模型、由哪個應用程式載入，以及模型檔案佔用多少磁碟空間。監控功能免費。 | Pro 版使用折扣碼 **BF2026** 享 **40% OFF**，一次買斷：1 台 Mac ~~$9.99~~ **$5.99**，3 台 Mac ~~$14.99~~ **$8.99**。優惠至 2026 年 12/1（太平洋時間晚上 11:59） |
 
 
 ⬆️ | [回到頂端](#目錄)
@@ -246,6 +247,7 @@
 | 📱 | [Thumbwise](https://thumbwise.app/?ref=tonybf) | 在 Mac 上整理你的 iPhone 主畫面：並排查看每一頁，依據你的應用程式使用情況取得減少滑動次數的版面配置，或讓 Claude 等 AI 助理為你安排，然後套用到你的 iPhone。原生 macOS 應用程式。 | **30% OFF** ($14.99 → $10.49)，使用折扣碼 **BLACKFRIDAY**，11/27 – 12/1 |
 | 🦌 | [DeskStag](https://deskstag.com/black-friday.html) | 為您的 Mac 桌面命名：在 Mission Control 中為每個桌面設定專屬名稱與顏色，不必再數「桌面 1、2、3」。適用於 Apple Silicon 的原生 macOS 應用程式，需 macOS 13 以上。提供 14 天免費試用。 | 一次性購買 **30% OFF**，~~$23.99~~ **$16.79**，使用折扣碼 **FRIDAY30**（11/22 – 12/1, 2026） |
 | ✏️ | [Lasso](https://www.trylasso.online/?utm_source=trungdq88&utm_medium=deals&utm_campaign=bf2026) | 在 Mac 螢幕上繪圖：在簡報、教學或分享螢幕時，可在任何應用程式上畫箭頭、圓圈和標示重點。按下快捷鍵，繪圖，再按 Esc。支援 macOS 14+，Apple 晶片與 Intel。 | 使用折扣碼 **LASSOBF50** 買斷享 **50% OFF**：~~$9.99~~ **$4.99**。無需訂閱。11/21 – 12/31, 2026。 |
+| 📋 | [Clipboard AI](https://clipboardai.app/black-friday) | 永遠記住你在 iPhone 和 Mac 上複製的所有內容：搜尋剪貼簿歷史記錄，並可從鍵盤或 ⌘⇧V 貼到任何地方。 | 終身 Pro 版 **30% OFF**（$34.99 → $24.99，一次付清），使用折扣碼 **BLACKFRIDAY**，從連結進入會自動套用。11/23 – 12/1 |
 
 ⬆️ | [回到頂端](#目錄)
 
@@ -518,6 +520,7 @@
 | 💡 | [IvaBoard](https://ivaboard.com/lifetime/) | 為 SaaS 團隊與代理商打造的客戶意見回饋看板、投票、產品路線圖、更新日誌與候補名單。白標入口網站可使用您自己的網域。投票者與團隊成員不限人數。 | 使用折扣碼 **BF30**，**終身方案 30% OFF**。託管 Solo，一次付費：第 1 階段 €55 → €38.50（第 1 階段授權售完為止）；第 2 階段 €66 → €46.20；第 3 階段 €109 → €76.30。優惠於 11/30, 2026 太平洋時間晚上 11:59 結束。 |
 | 📣 | [Upwip](https://upwip.com/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | 專為創辦人打造的一站式產品管理與意見回饋套件。收集客戶意見、規劃公開路線圖、發布更新日誌、撰寫文件，並在您自己的自訂網域上以即時聊天支援使用者。 | 使用折扣碼 **BF2026** 所有方案 **30% OFF**：年繳 Launch ~~$84~~ **$58.80/年**，Growth ~~$288~~ **$201.60/年**，Scale ~~$468~~ **$327.60/年**；終身 Launch ~~$99~~ **$69.30**，Growth ~~$299~~ **$209.30**，Scale ~~$699~~ **$489.30**（至 2026 年 12/2） |
 | 🗂️ | [Directory Ideas](https://directoryideas.ai/?utm_source=tonybf) | 找出人們真正會搜尋的目錄網站點子：真實的美國 Google 搜尋量與每個點子的評分、應優先列入的商家與聯絡他們的電子郵件，另附建置工具包與 7 天上線計畫。可在 Claude 與 ChatGPT 中使用。 | 終身使用權 **33% OFF**，一次付費，無需折扣碼：~~$89~~ **$59**。至 2026 年 11/30 太平洋時間晚上 11:59 止 |
+| 📊 | [Highseat](https://highseat.com/pricing?billing=yearly&utm_source=tonybf&utm_medium=deal-list&utm_campaign=black-friday-2026) | 無 Cookie 的網站分析工具，每個細分維度都顯示扣除退款後的營收，讓你看出哪些流量真正帶來收入。 | 任何年繳方案第一年 **40% OFF**，不需折扣碼（結帳時自動套用）：1 萬次事件 ~~$90~~ **$54**/年，10 萬次事件 ~~$290~~ **$174**/年。僅限新客戶。2026 年 11/23 – 12/1 |
 
 
 ⬆️ | [回到頂端](#目錄)
@@ -538,6 +541,7 @@
 | 📮 | [post2all](https://www.post2all.com/pricing?utm_source=awesome-bfcm&utm_medium=deal-list&utm_campaign=bfcm2026) | 用 AI 代理管理你的社群媒體。支援 X、LinkedIn、Instagram、TikTok、YouTube 等另外 10 個網路平台的社群媒體排程工具：讓 ChatGPT、Claude 或你自己的代理起草並排程貼文，也可以在應用程式中自行操作。包含 API、CLI 和 MCP。每個方案皆可無限新增團隊成員。 | 任何年費方案第一年 **25% OFF**，使用折扣碼 **BFCM25**（Creator ~~$90~~ $67.50，Business ~~$190~~ $142.50，Agency ~~$390~~ $292.50），11/18 – 12/7, 2026 |
 | 🎬 | [quso.ai](https://quso.ai/pricing?utm_source=awesome-bfcm&utm_medium=referral&utm_campaign=bf26_deal_lists) | 利用 AI 將長影片和 Podcast 轉成附字幕的直式短片，然後排程並自動發佈到 TikTok、YouTube Shorts、Instagram、LinkedIn 和 X。也可在 ChatGPT 和 Claude 中使用。 | 年繳方案 **50% OFF**，訂閱期間每次續約均維持此價，無需折扣碼（Lite ~~$348~~ **$174**/年，Essential ~~$468~~ **$234**/年，Growth ~~$588~~ **$294**/年）。新的年繳方案，11/20 – 12/1, 2026。提供免費方案 |
 | 🎞️ | [Shorvo](https://shorvostudio.com/pricing/?utm_source=awesome-bfcm) | Windows 應用程式，可將腳本或主題轉換成完整的 YouTube Short。它會為主題尋找素材、加入 AI 配音與逐字對時的字幕，並在你自己的電腦上算繪出 1080x1920 的 MP4。你可自行檢視並上傳。前 3 支影片免費，無需信用卡。 | Pro 終身版（一次付費）**40% OFF**，使用折扣碼 **BF40**：~~$129~~ **$77.40**。至 2026 年 12/10 止 |
+| 🌊 | [WaveGen](https://wavegen.ai/pricing?utm_source=awesome-bfcm&utm_medium=listing&utm_campaign=thanksgiving2026) | 將你的文章、電子報和 YouTube 影片轉換成符合品牌風格的輪播貼文和短影片，然後排程發佈到 Instagram、LinkedIn、TikTok、Facebook、YouTube 和 Pinterest。提供免費方案。 | 任何年繳方案第一年 **40% OFF**，使用折扣碼 **THANKS2026**，結帳時自動套用（Starter ~~$480~~ **$288**，Growth ~~$960~~ **$576**，Pro ~~$1,920~~ **$1,152**），2026 年 11/23 – 12/1 |
 
 
 ⬆️ | [回到頂端](#目錄)
@@ -659,5 +663,6 @@
 | 📈 | [Gumtrends](https://gumtrends.com) | 取得包含 25 萬多個 Gumroad 產品及預估營收的資料集。透過找出擁有許多 3 星評價的獲利商品來發掘商機。 | 終身會員 30% OFF，使用折扣碼 **BF2026**，~~$99~~ **$69.30**。至 2026 年 12/5 止 |
 | 🎤 | [Mic to Speaker: Microphone](https://apps.apple.com/us/app/mic-to-speaker-microphone/id6751250098) | 將你的手機變成任何藍牙喇叭的即時麥克風，適用於卡拉 OK 與廣播。 | **終身版 40% OFF**（一次性購買）：~~$49.99~~ **$29.99**，於應用程式內自動套用，無需折扣碼。2026 年 11/21 - 11/30。 |
 | 🧱 | [Afolio](https://afolio.app/#black-friday) | 適用於 Mac、iPhone 和 iPad 的樂高收藏追蹤工具，內建涵蓋每個套組、人偶和零件的目錄。追蹤你擁有的物品與其價值，找出二手套組中缺少的零件，並透過 iCloud 免費同步。在 Mac 上，Claude 和其他 AI 助理可透過 MCP 回答關於你收藏的問題。最多 25 個套組免費。 | **70% OFF** Afolio Pro（買斷制，適用於 Mac、iPhone 和 iPad）：~~US$19.99~~ **US$5.99**，使用 App Store 折扣碼 **BF26**，至 2026 年 12 月 1 日止。[在 App Store 兌換](https://apps.apple.com/redeem?ctx=offercodes&id=6764484145&code=BF26) |
+| 🎶 | [Toast Karaoke](https://toastkaraoke.app/?utm_source=awesome-bf&utm_medium=list&utm_campaign=bf2026) | 適用於 Mac 和 Windows 的卡拉 OK 播放器。播放你自己的卡拉 OK 影片檔案，開啟或關閉導唱人聲（多音軌檔案），調整音調，並讓賓客掃描 QR code 用手機點歌排隊。提供 3 天免費試用。 | **年繳 25% OFF** 第一年（~~$59.99~~ **$44.92**），以及 **終身方案 30% OFF**（~~$199~~ **$139.21**），結帳時自動套用，不需折扣碼。**2026 年 11/20 – 11/30**（於 UTC+7 23:59 結束）。 |
 
 ⬆️ | [回到頂端](#目錄)
