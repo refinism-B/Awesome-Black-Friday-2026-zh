@@ -1,7 +1,7 @@
 > [!NOTE]
 > - 本清單為 [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) 的中文翻譯，僅供輔助閱讀。
 > - 翻譯由 Claude Sonnet 5.5（`claude-sonnet-5-5`）自動產生，建議搭配原版查看，如有歧異以原版為準。
-> - 中文版最後更新：2026-11-22 10:54（UTC+8）
+> - 中文版最後更新：2026-11-22 18:55（UTC+8）
 
 <!-- translation-body -->
 
@@ -100,6 +100,9 @@
 | ☁️ | [KloudUtils](https://kloudutils.com/?utm_source=trungdq88-blackfriday) | 適用於日常工作和 AI 代理的工具箱。55+ 種工具，涵蓋程式碼、系統、圖表、大型檔案、雲端儲存、API、筆記、機密資訊。一次性購買。 | Pro 授權使用折扣碼 `BFCM2026_PRO` 現折 **$30 OFF**：~~$79.00~~ $49.00（3 台裝置 - Mac、Windows 或 Linux）- Standard 授權（1 台裝置）使用折扣碼 BFCM2026_STD 現折 **$10 OFF**，**2026 年 11/16 至 12/6**。 |
 | 👥 | [Doubles](https://doubles.dev/pricing) | 適用於 Mac 的遠端結對程式設計應用程式：分享清晰到足以閱讀程式碼的螢幕畫面，在你允許時讓夥伴操控，並能一起交談和繪圖。訪客可從瀏覽器加入。一次性購買。 | 使用折扣碼 **DOUBLES50** 享 **50% OFF**：~~$169~~ **$84.50**（11/20 – 12/1, 2026） |
 | 🪣 | [Blob0](https://blob0.com/) | macOS 桌面用戶端，可瀏覽、傳輸、預覽及分享 Cloudflare R2、Amazon S3 和其他相容 S3 儲存空間中的檔案。 | 使用 **BLACKFRIDAY20** 享一次性購買的個人版（$16.90 → $13.52 USD）和團隊版授權 **20% OFF**，11/14–30, 2026（UTC 15:59 結束）。 |
+| 🔄 | [Synclet](https://synclet.dev/) | 跨 macOS 與 Linux 的端對端加密 dotfile 與 Mac 應用程式設定同步，可使用 Synclet Cloud 或您自己的 Dropbox。 | 一次性授權 **50% OFF**（~~$14.99~~ **$7.49**），結帳時自動套用，無需折扣碼。**11/20 – 12/1, 2026**。 |
+| 🌀 | [Warplet](https://warplet.app/) | 原生 macOS 應用程式，一鍵將 ChatGPT、Claude、Perplexity 和 Grok 等託管式 AI 用戶端連接到您的本機 MCP 伺服器。 | 年繳方案第一年 **40% OFF**（~~$14.99~~ **$8.99**，續訂價為 $14.99/年），使用折扣碼 **BLACKFRIDAY2026**。**11/20 – 12/1, 2026**。 |
+| 🐼 | [BabaPic](https://www.babapic.cc/) | Mac 批次圖片壓縮與格式轉換工具，一次完成壓縮、轉換、調整尺寸和重新命名，完全在本機執行。 | Pro 版 50% OFF，使用折扣碼 **BABAPIC2026**：一次性購買 $19 → $9.50（11/22 – 12/31, 2026） |
 
 
 ⬆️ | [回到頂端](#目錄)
@@ -241,6 +244,7 @@
 | 🎬 | [CursorClip](https://cursorclip.com/pricing/?ref=bf-trungdq88) | 適用於教學、課程與產品展示的原生 Mac 螢幕錄影軟體。錄製時會在你點擊的位置加入流暢的縮放效果。2.3 版新功能：86 種背景、開始前的麥克風與相機檢查，以及在你的 Mac 上產生的字幕。錄製與編輯免費；匯出需要授權。 | **終身授權 $49**，一次付費，無需訂閱。折扣碼 **BLACKFRIDAY** 會在結帳時自動套用。至 **2026 年 11 月 30 日太平洋時間晚上 11:59** 止 |
 | 🌡️ | [ThermPort](https://thermport.com/) | 適用於 Apple Silicon Mac 的選單列系統監控工具：CPU 與 GPU 溫度、風扇轉速、記憶體、電源與網路，並提供歷史圖表、警示與 PDF 報告。原生應用程式，僅佔用約 20 MB 記憶體。 | **29% OFF** ~~$6.99~~ **$4.99** 買斷授權，最多可用於 3 台 Mac，使用折扣碼 **BF2026**（從網站購買時自動套用）。至 2026 年 12 月 1 日止 |
 | 📱 | [Thumbwise](https://thumbwise.app/?ref=tonybf) | 在 Mac 上整理你的 iPhone 主畫面：並排查看每一頁，依據你的應用程式使用情況取得減少滑動次數的版面配置，或讓 Claude 等 AI 助理為你安排，然後套用到你的 iPhone。原生 macOS 應用程式。 | **30% OFF** ($14.99 → $10.49)，使用折扣碼 **BLACKFRIDAY**，11/27 – 12/1 |
+| 🦌 | [DeskStag](https://deskstag.com/black-friday.html) | 為您的 Mac 桌面命名：在 Mission Control 中為每個桌面設定專屬名稱與顏色，不必再數「桌面 1、2、3」。適用於 Apple Silicon 的原生 macOS 應用程式，需 macOS 13 以上。提供 14 天免費試用。 | 一次性購買 **30% OFF**，~~$23.99~~ **$16.79**，使用折扣碼 **FRIDAY30**（11/22 – 12/1, 2026） |
 
 ⬆️ | [回到頂端](#目錄)
 
@@ -384,6 +388,7 @@
 | 🎬 | [WinkLingo](https://winklingo.com/en/black-friday) | 可依精確台詞或母語語意，搜尋 180 萬個同步電影片段和 485K+ 個 YouTube 影片，並提供 4 分鐘的場景章節和獨白，用於英語口說學習。 | 年度 Pro 方案 **40% OFF**（~~$49.99~~ **$29.99/yr**），月繳方案 **38% OFF**（~~$7.99~~ **$4.99/mo**），訂閱期間價格鎖定，結帳時自動套用（無需折扣碼）。至 12/3, 2026 止。 |
 | 💼 | [CVder](https://cvder.app/pricing) | AI 求職申請工具：貼上職缺內容，CVder 就會依此調整你的履歷、檢查 ATS 分數、撰寫求職信與給招募人員的電子郵件，並追蹤每一筆申請。託管於歐盟。 | 任何 Pro 方案**首次付款 50% OFF**，使用折扣碼 **BF2026**：月繳 ~~€14~~ **€7**，年繳 ~~€84~~ **€42**，6 個月 ~~€45~~ **€22.50**，週繳 ~~€9~~ **€4.50**。**2026 年 11 月 27 日 – 12 月 1 日** |
 | 🎙️ | [FastScribe](https://fastscribe.org/pricing?offer=black-friday-2026) | 網頁應用程式，可將音訊、影片與社群連結轉換為逐字稿、字幕與 AI 摘要。 | Pro 首年**折抵 $31**：$89（原價 $120/年），之後 $120/年；附贈 6,500 點額度，有效期 365 天。僅限沒有有效訂閱的帳號；無需折扣碼。2026 年 11/17 - 11/30（太平洋時間晚上 11:59）。 |
+| 📄 | [Stashkin](https://stashkin.com/pricing?utm_source=awesome-bfcm&utm_medium=github&utm_campaign=bf2026) | Chrome 擴充功能，可將 ChatGPT 對話匯出為可編輯的 Word (.docx)、PDF、Markdown、PNG 和 JSON，並完整保留表格、LaTeX 公式與圖片。免費方案每天包含 8 次 Word 與 3 次 PDF 匯出。 | Pro 年繳方案第一年 **50% OFF**，使用折扣碼 **BF2026**：~~$46.56~~ **$23.28**（每月 $1.94，之後 $46.56/年）。僅限年繳方案。11/22 – 12/1, 2026（太平洋時間晚上 11:59）。 |
 
 
 ⬆️ | [回到頂端](#目錄)
@@ -467,6 +472,7 @@
 | 🔳 | [UQR](https://uqr.ai/pricing?utm_source=awesome-bfcm) | 動態 QR 碼和短連結：列印後仍可更改目的地、追蹤掃描次數，並託管名片、連結頁面、選單和 PDF。即使取消訂閱，已列印的 QR 碼仍可繼續使用。免費方案：5 個動態 QR 碼。 | 所有方案（月繳或年繳）首期帳單 **50% OFF**，無需折扣碼（結帳時自動套用）：Lite ~~$64~~ **$32**，Pro ~~$160~~ **$80**，Business ~~$392~~ **$196**（首年）。11/20 – 11/30, 2026 |
 | 🔥 | [Appfigures](https://appfigures.com/platform/pricing?utm_source=github&utm_medium=deal-list&utm_campaign=bf26&utm_content=tony) | App Store 和 Google Play 的 ASO 與應用程式情報：競爭對手關鍵字、自訂產品頁面，以及下載量和營收估算。 | 使用折扣碼 **BF2650**，月繳或年繳方案 12 個月 **50% OFF**：Monitor ~~$44.99~~ **$22.49**/月（年繳 ~~$35.99~~ **$17.99**/月），Boost 5 ~~$399.99~~ **$199.99**/月（年繳 ~~$349.99~~ **$174.99**/月）；每月最多折抵 $200；現有會員需升級（11/23 – 11/30, 2026） |
 | 🧰 | [JitSuites](https://jitsuites.com/pricing/?utm_source=deallist&utm_medium=listing&utm_campaign=awesome-bfcm) | 專為小型企業和代理商打造的一站式行銷應用程式：銷售漏斗和登陸頁面、電子郵件和簡訊行銷活動、自動發佈到各大主要平台的社群貼文，以及從長影片產生 AI 短片，全部集中在同一個儀表板。 | 使用折扣碼 **BLACKFRIDAY50**，任何月繳方案 12 個月享 **50% OFF**：Starter ~~$29~~ $14.50/mo，Standard ~~$59~~ $29.50/mo，Professional ~~$99~~ $49.50/mo，Enterprise ~~$199~~ $99.50/mo。至 12/2, 2026 止 |
+| 🔗 | [TrimLink](https://trimlink.co/pricing) | 隱私優先的短網址服務：可在您自己的網域上建立品牌短連結，提供 QR 碼與點擊分析，無廣告。免費方案包含 1 個自訂網域。 | Pro 或 Growth 年繳方案第一年 50% OFF：Pro ~~$120~~ **$60**/年，Growth ~~$390~~ **$195**/年。結帳時自動套用，無需折扣碼。2026 年 11/27 – 12/1 |
 
 
 ⬆️ | [回到頂端](#目錄)
@@ -592,6 +598,7 @@
 | 🔊 | [Tutti](https://tutti.barrybarrywu.com/#pricing) | 從 macOS 選單列控制多個音訊輸出、各應用程式音量以及螢幕亮度。Pro 版另提供各輸出獨立等化器、Audio Units 與 Input Mix。 | 單台 Mac 一次性買斷，**US$12.99 → US$8.99**，含稅。無需折扣碼。2026 年 11/20 – 11/30。優惠於 11 月 30 日下午 11:59（太平洋標準時間）結束。 |
 | 👀 | [WooPeek](https://wpfinity.com/products/woopeek/?utm_source=awesome-bfcm&utm_medium=deal-list&utm_campaign=bfcm2026) | Chrome 擴充功能，可在任何分頁的浮動側邊欄中顯示你的 WooCommerce 即時訂單、營收與低庫存。包含免費方案。 | Pro 與 Agency **50% OFF**，使用折扣碼 **BFCM26**（年繳方案首年）：Pro 終身版 ~~$99~~ **$49.50**，Pro ~~$39~~ **$19.50**/年。至 2026 年 12/1 止 |
 | 🥷 | [DiskNinja](https://diskninja.app/blackfriday/?ref=tonybf) | 適用於 Mac、Windows 與 Linux 的磁碟空間分析工具。幾秒內完成掃描，並將你的磁碟繪製成一張色彩繽紛的地圖，免費。Pro 版另提供你可能不需要的大型檔案排序清單（並附上原因），以及針對任何你不認識的檔案的淺白解答。 | Pro 年繳方案首年 **50% OFF**（~~$14.99~~ **$7.49**），使用折扣碼 **NINJABF26**。適用於官方網站與 Mac App Store。新訂閱者，2026 年 11/24 – 12/2 |
+| 📀 | [Notion Backups](https://notionbackups.com) | 輕鬆備份與還原 Notion 工作區。將 Notion 資料庫同步到 Google Sheets。 | 年繳方案 **26% OFF**。結帳時使用折扣碼 **BLACKFRIDAY2026**。有效期限至 2026 年 12/8 |
 
 ⬆️ | [回到頂端](#目錄)
 
