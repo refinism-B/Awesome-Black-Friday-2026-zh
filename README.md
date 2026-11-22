@@ -1,7 +1,7 @@
 > [!NOTE]
 > - 本清單為 [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) 的中文翻譯，僅供輔助閱讀。
 > - 翻譯由 Claude Sonnet 5.5（`claude-sonnet-5-5`）自動產生，建議搭配原版查看，如有歧異以原版為準。
-> - 中文版最後更新：2026-11-22 06:55（UTC+8）
+> - 中文版最後更新：2026-11-22 10:54（UTC+8）
 
 <!-- translation-body -->
 
@@ -239,6 +239,8 @@
 | ⌨️ | [AppBrisk](https://appbrisk.candyyue.com/en/pricing/) | 在 Windows 10/11 上，每個應用程式只需一個鍵盤快捷鍵，即可啟動應用程式、切換到其視窗，或切換顯示與隱藏。 | **50% OFF** Pro 終身版：US$2.99（原價 US$5.99），含稅，最多 3 台裝置。結帳時自動套用，無需折扣碼。11/19 至 11/30, 2026 太平洋時間晚上 11:59:59。 |
 | 📸 | [Snapperon](https://snapperon.com/#pricing) | 在你的 Mac 上為螢幕截圖加註解、遮蓋私人資訊，並從圖片中複製文字。 | 使用折扣碼 `BLACKFRIDAY26` 享 Pro **50% off**。月繳 $2 → 前 12 個月每月 $1，年繳 $19.99 → 首年 $10，或終身版 $38.99 → 一次性 $19.50（USD）。11/20, 2026 – 12/1, 2026。 |
 | 🎬 | [CursorClip](https://cursorclip.com/pricing/?ref=bf-trungdq88) | 適用於教學、課程與產品展示的原生 Mac 螢幕錄影軟體。錄製時會在你點擊的位置加入流暢的縮放效果。2.3 版新功能：86 種背景、開始前的麥克風與相機檢查，以及在你的 Mac 上產生的字幕。錄製與編輯免費；匯出需要授權。 | **終身授權 $49**，一次付費，無需訂閱。折扣碼 **BLACKFRIDAY** 會在結帳時自動套用。至 **2026 年 11 月 30 日太平洋時間晚上 11:59** 止 |
+| 🌡️ | [ThermPort](https://thermport.com/) | 適用於 Apple Silicon Mac 的選單列系統監控工具：CPU 與 GPU 溫度、風扇轉速、記憶體、電源與網路，並提供歷史圖表、警示與 PDF 報告。原生應用程式，僅佔用約 20 MB 記憶體。 | **29% OFF** ~~$6.99~~ **$4.99** 買斷授權，最多可用於 3 台 Mac，使用折扣碼 **BF2026**（從網站購買時自動套用）。至 2026 年 12 月 1 日止 |
+| 📱 | [Thumbwise](https://thumbwise.app/?ref=tonybf) | 在 Mac 上整理你的 iPhone 主畫面：並排查看每一頁，依據你的應用程式使用情況取得減少滑動次數的版面配置，或讓 Claude 等 AI 助理為你安排，然後套用到你的 iPhone。原生 macOS 應用程式。 | **30% OFF** ($14.99 → $10.49)，使用折扣碼 **BLACKFRIDAY**，11/27 – 12/1 |
 
 ⬆️ | [回到頂端](#目錄)
 
@@ -549,6 +551,7 @@
 | 📈 | [ChartScout](https://chartscout.io/black-friday) | 為加密貨幣交易者提供圖表型態偵測與警示。 | ChartScout Pro 前 3 個月 **40% OFF**。折扣自動套用；無需優惠券代碼。 |
 | 📊 | [CryptoKeyhole](https://cryptokeyhole.com/pricing/?utm_source=awesome-bf&utm_medium=listing&utm_campaign=blackfriday-2026) | 針對比特幣、以太幣及持續增加的幣種提供鏈上、衍生性商品與 ETF 分析，資料由我們自有節點計算：清算地圖、週期指標、交易所資金流向、ETF 資金流向和持幣公司。 | 月繳 Plus 或 Pro 前三個月 **50% OFF**（Plus 前三個月每月 ~~$18~~ **$9**，之後 $18），或年繳首年 **30% OFF**（Plus 首年 ~~$180~~ **$126**，之後 $180）。自 2026 年 11/20 至 12/1 UTC 23:59，適用於新訂閱者。無需折扣碼：結帳時直接折抵。14 天退款保證。 |
 | 📈 | [SIGNUM HQ](https://apps.apple.com/app/signum-hq-stock-market-intel/id6783130444?pt=129074309&ct=bf_tony_1122&mt=8) | iPhone 上的美股應用程式：即時報價、一句話 AI 說明你的股票為何波動、晨間簡報，以及附有預期波動與提醒的財報日曆。 | PRO 首年 **50% OFF**，使用折扣碼 **BLACKFRIDAY50**：~~$74.99~~ **$37.49**/年（美國價格；各地區價格不同）。月繳：前 3 個月 **50% OFF**，使用折扣碼 **BFCM50**（~~$9.99~~ $4.99/月）。可在 [App Store](https://apps.apple.com/redeem?ctx=offercodes&id=6783130444&code=BLACKFRIDAY50) 兌換，或在應用程式內 PRO 畫面透過「兌換代碼」兌換。續訂時以原價計費；可隨時取消。Android：透過[此連結](https://www.signumhq.com/app?from=bf_tony_1122)可免費獲得 1 個月 PRO。**2026 年 11/22 – 12/2** |
+| 📊 | [TotalFigures](https://totalfigures.app/?ref=bf26-awesome) | 掌握你的錢花到哪裡去，以及你是否正在進步，淨資產與每一筆交易都在同一個注重隱私的應用程式中追蹤。 | **88% OFF** Premium，無需折扣碼：終身版 ~~$79.99~~ **$9.59**，或年訂閱方案的第一年 ~~$29.99~~ **$3.59**（新訂閱者，之後為 $29.99/年）。為美國價格；各地區價格可能不同。**2026 年 11/21 – 12/3**（年訂閱優惠至 12/2 止） |
 
 
 ⬆️ | [回到頂端](#目錄)
@@ -642,5 +645,6 @@
 | 🗽 | [PermWatch](https://permwatch.com/alerts/) | 針對employment-based 路徑（PERM、I-140、I-485）的綠卡追蹤工具。根據 DOL 的公開資料預估 DOL 何時會審理您的 PERM，在 FLAG 上查詢您的 PERM 案件，並在預估時間變動或 Visa Bulletin 到達您的優先日期時，透過電子郵件或 Telegram 訊息通知您。網頁應用程式；預估功能免費。 | Pro 年繳方案首年 **10% OFF**：~~$49~~ **$44.10**，之後每年 $49。直到取得綠卡為止（一次性付費）：~~$79~~ **$71.10**。結帳時自動套用，無需折扣碼。即日起 - 2026/12/1。 |
 | 📈 | [Gumtrends](https://gumtrends.com) | 取得包含 25 萬多個 Gumroad 產品及預估營收的資料集。透過找出擁有許多 3 星評價的獲利商品來發掘商機。 | 終身會員 30% OFF，使用折扣碼 **BF2026**，~~$99~~ **$69.30**。至 2026 年 12/5 止 |
 | 🎤 | [Mic to Speaker: Microphone](https://apps.apple.com/us/app/mic-to-speaker-microphone/id6751250098) | 將你的手機變成任何藍牙喇叭的即時麥克風，適用於卡拉 OK 與廣播。 | **終身版 40% OFF**（一次性購買）：~~$49.99~~ **$29.99**，於應用程式內自動套用，無需折扣碼。2026 年 11/21 - 11/30。 |
+| 🧱 | [Afolio](https://afolio.app/#black-friday) | 適用於 Mac、iPhone 和 iPad 的樂高收藏追蹤工具，內建涵蓋每個套組、人偶和零件的目錄。追蹤你擁有的物品與其價值，找出二手套組中缺少的零件，並透過 iCloud 免費同步。在 Mac 上，Claude 和其他 AI 助理可透過 MCP 回答關於你收藏的問題。最多 25 個套組免費。 | **70% OFF** Afolio Pro（買斷制，適用於 Mac、iPhone 和 iPad）：~~US$19.99~~ **US$5.99**，使用 App Store 折扣碼 **BF26**，至 2026 年 12 月 1 日止。[在 App Store 兌換](https://apps.apple.com/redeem?ctx=offercodes&id=6764484145&code=BF26) |
 
 ⬆️ | [回到頂端](#目錄)
