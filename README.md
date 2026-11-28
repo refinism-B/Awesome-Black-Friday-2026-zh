@@ -1,7 +1,7 @@
 > [!NOTE]
 > - 本清單為 [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) 的中文翻譯，僅供輔助閱讀。
 > - 翻譯由 Claude Sonnet 5.5（`claude-sonnet-5-5`）自動產生，建議搭配原版查看，如有歧異以原版為準。
-> - 中文版最後更新：2026-11-28 05:56（UTC+8）
+> - 中文版最後更新：2026-11-28 11:47（UTC+8）
 
 <!-- translation-body -->
 
@@ -181,6 +181,9 @@
 | ☁️ | [APEX HostMate](https://apexhostmate.com/deals/year-end-sale?utm_source=awesome-bfcm&utm_medium=deal-list&utm_campaign=bf2026) | 受管理的 Oracle APEX 主機服務：Oracle Database、APEX 26.2 與 ORDS 在 60 秒內即可就緒，每日免費備份，伺服器位於美國、德國、新加坡與孟加拉。 | 新訂單首期 **最高 37.5% OFF**（AHM-256M，德國）：6 個月 ~~$62~~ **$55.47**，折扣碼 **YEAREND15**；1 年 ~~$118~~ **$91.78**，折扣碼 **YEAREND30**；2 年 ~~$211~~ **$131.87**，折扣碼 **YEAREND50**。續約按原價計費。11/27 – 12/31, 2026（UTC+6 23:59） |
 | 📊 | [TelemetryDeck](https://telemetrydeck.com/?utm_source=tonybf&utm_medium=deal-list&utm_campaign=black-week-2026) | 隱私優先的應用程式分析服務，支援 iOS、macOS、Android、Flutter、React Native 與網頁應用程式。設計上即匿名且私密，主機位於歐洲。 | 使用折扣碼 **WEEK26** 12 個月享 **30% OFF**，無最低消費。11/23 – 12/1, 2026 |
 | ⚡ | [DASH](https://dashcanvas.dev/?utm_source=github&utm_medium=deal-list&utm_campaign=bf&utm_content=trungdq88) | 適用於 Windows 與 Mac 的桌面畫布，可使用您自己的訂閱，並排執行 Claude Code、Codex、Cursor、Gemini CLI 及其他代理程式 CLI。每個代理程式都有一張臉，顯示誰正在工作、誰需要您。一次性購買，提供 3 天免費試用。 | 使用折扣碼 **BLACKFRIDAY**，一次性授權享 **40% OFF**：~~$49.99~~ **$29.99**。11/27 – 11/30, 2026。 |
+| ☁️ | [Staxa](https://staxa.dev/#pricing) | 為 SaaS 提供託管服務，每位客戶都有獨立的堆疊：每個租戶在獨立的 Kubernetes 命名空間中擁有自己的應用程式、資料庫、子網域和 SSL，可從儀表板或透過一次 API 呼叫完成佈建。免費方案包含 2 個租戶。 | Starter（~~$49~~ **$24.50**/月）或 Growth（~~$199~~ **$99.50**/月）前 3 個月享 **50% OFF**，折扣碼 **STAXABF50**。月繳、新訂閱、前 100 位客戶。11/27 – 11/30, 2026 |
+| 📡 | [12happy](https://www.12hpy.com/pricing?utm_source=trungdq88&utm_medium=deal-list&utm_campaign=black-friday-2026&utm_content=bf40#bf40) | 正常運作時間監控與狀態頁面：網站、關鍵字、ping、TCP、心跳（cron）和 DNS 檢查，每次失敗都會先從第二個地點確認後才通知任何人。透過電子郵件、Slack、Telegram、SMS 和 webhook 發送警示；狀態頁面可使用您自己的網域；提供 iPhone 和 Android 應用程式。提供免費方案。 | Pro 年繳首年享 **40% OFF**，折扣碼 **BF40**：首年 ~~$144~~ **$86.40**（$7.20/月）。至 12/1, 2026（23:59 UTC） |
+| 🤖 | [OpenComputer](https://opencomputer.dev/blog/black-friday-2026/) | 開源（Apache-2.0）雲端程式開發代理，是 Devin 和 Codex cloud 的替代方案。在 Slack 中提及 @Computer 並交付任務；它會在自己的雲端電腦中運作並開啟 PR。可免費自行託管，或使用託管方案。 | **50% OFF + 2 倍分鐘數**，無需折扣碼：Pro $20 → $10/月，含 4,000 工作分鐘（原為 2,000）；Max $200 → $100/月，含 50,000（原為 25,000）。前 50 個工作區可維持 12 個月，之後為 3 個月。新訂閱，至 2026 年 11/30 太平洋時間晚上 11:59 |
 
 
 ⬆️ | [回到頂端](#目錄)
@@ -211,6 +214,7 @@
 | 🗂️ | [Caddy Docs](https://apps.apple.com/us/app/caddy-docs/id6802867430?mt=12) | Mac 邊緣的彩色分頁收納每個專案的檔案、PDF 與筆記本，用完即可收起。動態桌面寵物就住在分頁上。 | 一次性購買 **38% OFF**：Mac App Store 上 ~~$21~~ **$12.99** USD，無需折扣碼。11/25 – 12/1。 |
 | 🗒️ | [StickyPeels](https://munyala.pro/stickypeels/pricing?ref=Awesome-Black-Friday-Cyber-Monday) | 會提醒您的 Mac 便利貼。輸入「call mum 6pm」，它就會出現在桌面上並設定好提醒；根據您的行事曆，用一行文字規劃一天；任何便利貼都能擴充成完整頁面。原生 macOS 應用程式，可免費下載，並提供可在瀏覽器中試用的示範。 | 使用折扣碼 **BLACKFRIDAY30**，Pro 年繳方案第一年享 **30% OFF**：~~$6.99/年~~ 第一年 **$4.89**。11/25 – 12/1, 2026，限前 100 位客戶。 |
 | 📸 | [FletchShot](https://fletchshot.app/?src=bf-list) | 專為 Skitch 使用者打造的 Mac 螢幕截圖標註工具。擷取、畫箭頭，再拖曳到 Slack。 | **50% OFF** 完整解鎖 ~~$9.99~~ **$4.99**，2026 年 11/27 – 11/30。一次性應用程式內購買，無需折扣碼。 |
+| 📅 | [Overcal](https://indiegoodies.com/overcal) | 在 Mac 選單列中的行事曆：月檢視、議程、世界時鐘，以及可一鍵加入下一場會議的倒數計時。 | 終身授權 **50% OFF**（$7.99 → $3.99），折扣碼 **INDIEGOODIESBF26**，11/19 – 11/30, 2026 |
 
 
 ⬆️ | [回到頂端](#目錄)
@@ -310,6 +314,7 @@
 | ⌨️ | [EasySwitch](https://easyswitch.realbrain.cc/pricing) | 適用於 macOS、Windows 和 Linux 的軟體 KVM：在區域網路內的多台電腦間共用一組鍵盤和滑鼠，並提供共用剪貼簿與檔案傳輸，採用端對端加密。Pro 及以上方案還能將連結的電腦變成第二個螢幕。兩台電腦永久免費。 | **每個方案都以下一級方案的價格供應**，買斷制，無需訂閱：Pro（5 台電腦）~~$49~~ **$29**，Essentials（3 台電腦）~~$29~~ **$19**，Studio（10 台電腦）~~$99~~ **$49**，Business（25 台電腦）~~$179~~ **$99**。結帳時自動套用，不需折扣碼。**2026 年 11/27 – 11/30**（23:59 UTC 結束） |
 | 📸 | [Shotspa](https://www.anuragsoni.com/shotspa?ref=bf-trung) | 讓你的 Mac 螢幕截圖在拍下的瞬間就很美：背景、圓角、陰影和真實的 3D 傾斜效果，無需編輯步驟。它甚至會隱藏你的電子郵件、信用卡號和 API 金鑰。在本機執行，不會上傳任何內容。 | **黑色星期五 ~~$24~~ $20**，買斷制，2 台 Mac，免費更新。自動套用，不需折扣碼。7 天免費試用，無需信用卡。**2026 年 11/27 – 11/30**（太平洋時間晚上 11:59 結束） |
 | 🪟 | [SMBAct](https://smblob.com/products/smbact/?promo=BF2026&utm_source=trungdq88-blackfriday) | 適用於 Windows、macOS 與 Linux 的視窗管理員與應用程式切換器：以鍵盤快速鍵配置版面、將視窗拖曳到螢幕邊緣即可貼齊、在多個螢幕間移動視窗、快速的應用程式與視窗切換器，以及供 AI 代理程式使用的本機 MCP 伺服器。一份授權涵蓋三種系統的任意組合。一次性購買，提供 14 天免費試用。 | 所有授權使用折扣碼 **BF2026** 享 **30% OFF**（透過連結自動套用）：1 台電腦 ~~€14.99~~ **€10.49**，3 台電腦 ~~€29.99~~ **€20.99**（價格不含 VAT）。**11/27 – 12/31, 2026** |
+| 📋 | [PastePal](https://indiegoodies.com/pastepal) | 適用於 Mac、iPhone 和 iPad 的剪貼簿管理工具，讓您複製的所有內容都可搜尋、有條理，並透過 iCloud 同步。原生、注重隱私、一次性購買。 | 獨立 Mac 版本終身授權 **50% OFF**（$14.99 → $7.49），折扣碼 **INDIEGOODIESBF26**，11/19 – 11/30, 2026 |
 
 ⬆️ | [回到頂端](#目錄)
 
@@ -383,6 +388,7 @@
 | 🔎 | [PixaFind](https://pixafind.com/?utm_source=tonybf#pricing) | 用描述的方式搜尋電腦中的檔案：「海灘上的狗」能找到照片，「我的租屋合約」能找到 PDF。本機 AI 在您的電腦上執行，檔案不會離開電腦，離線也能搜尋。支援 Windows、Mac 與 Linux，單一資料夾免費。 | **50% OFF**，無需折扣碼，11/27 – 11/30, 2026：終身版 ~~$249~~ $124.50，Pro 年繳 ~~$96~~ 首年 $48，Pro 月繳 ~~$12~~ 首月 $6 |
 | 🖼️ | [Tenoa](https://tenoa.app/?utm_source=awesome-bfcm&utm_medium=referral&utm_campaign=bf2026) | 適用於 Mac 與 Windows 的視覺素材庫，並提供免費的 iPhone 與 iPad 應用程式。將螢幕截圖、圖片、影片、網頁與 PDF 以一般檔案的形式儲存在電腦的資料夾中，可用文字或裝置端 AI 搜尋 | 使用折扣碼 **BLACKFRIDAY26** 現折 **$15 OFF**（11/27 – 11/30, 2026）：~~$49~~ $34 一次性購買，最多可用於三台電腦，包含第一年的同步與更新 |
 | 🎧 | [Aloud](https://aloudapp.app/black-friday/) | 原生 macOS 應用程式，可朗讀選取的文字、PDF、螢幕截圖與網路文章，採用裝置端 Kokoro 語音，無需訂閱。 | 使用折扣碼 **BF30** 享 **30% OFF**（11/27 – 12/1, 2026）：~~$19~~ $13.30 一次性購買 |
+| 🎙️ | [Hushpad](https://selahsoftware.gumroad.com/l/hushpad/BLACKFRIDAY) | Mac 上的私密 AI 聽寫。按住按鍵說話，乾淨且帶標點的文字就會出現在任何應用程式中，並移除贅詞、整理清單格式。語音辨識與清理完全在您的 Mac 上執行，不會上傳任何內容。 | 一次性授權 **30% OFF**，折扣碼 **BLACKFRIDAY**（透過連結自動套用）：~~$20~~ **$14**。無需訂閱，提供 7 天免費試用。11/27 – 12/1, 2026 |
 
 ⬆️ | [回到頂端](#目錄)
 
@@ -476,6 +482,7 @@
 | 🦑 | [Calamari](https://www.calamari.io/black-friday?utm_source=github&utm_medium=referral&utm_campaign=black-friday-2026) | 為成長中團隊打造的人資軟體：包含休假、工時與出勤、核心人資、績效與排班模組。可單選或組合多個模組。 | 使用折扣碼 **BLACKFRIDAY2026**，每個模組首次付款享 **30% OFF**，至 **2026 年 11 月 30 日** 止 |
 | 🔔 | [DueHush](https://duehush.useglowlink.com/?utm_source=github&utm_medium=listing&utm_campaign=bf2026) | 訂閱與免費試用提醒——不再錯過續約，無需綁定銀行。 | 使用折扣碼 `DUEHUSH-BF25` 享 **25% off**，至 11/30 止（原價 $29）。無需訂閱。 |
 | 🧩 | [Widgets for Notion](https://widgetsfornotion.com/premium?ref=gh-bfcm) | 100+ 個可嵌入 Notion 頁面的免費小工具：時鐘、倒數計時、日曆，以及習慣、心情與目標追蹤器。進階小工具可加入您即時的 Google 或 Outlook 日曆、含工作時間的專屬世界時鐘，以及照片願景板。 | 使用折扣碼 **BLACKFRIDAY**，終身版享 **50% OFF**：~~$19~~ **$9.50** 一次性購買，包含日後新增的所有進階小工具。至 11/30, 2026 止。 |
+| 🕒 | [Timesheet](https://timesheet.io/en/pricing) | 適用於 iPhone、iPad、Android 和網頁的自由工作者與團隊時間追蹤工具，具備離線計時器、發票、報表、團隊與人資工具，以及供 AI 助理使用的 MCP 伺服器。 | 網頁、App Store 和 Google Play 上所有年度方案的**首年 50% OFF**，無需折扣碼，僅限新客戶：Plus（$59.99 → $29.99）、Pro（每位使用者 $99.99 → $49.99）、Business（每位使用者 $179.99 → $89.99）。為美國價格，各地價格不同。11/23 – 11/30, 2026。 |
 ⬆️ | [回到頂端](#目錄)
 
 
@@ -531,6 +538,7 @@
 | 📄 | [SupaCV](https://supacv.com/pricing?interval=month&utm_source=github_bf_list&utm_medium=referral&utm_campaign=bf2026) | 履歷檢查工具，提供滿分 100 的評分、AI 改寫，以及針對任何職缺貼文量身調整。 | 所有方案**首次付款享 80% OFF**，結帳時自動套用（無需折扣碼）：Pro 月繳 ~~$7.50~~ **$1.50**，Pro 年繳 ~~$60~~ **$12**；Career 月繳 ~~$15~~ **$3**，Career 年繳 ~~$120~~ **$24**。僅限首次購買，之後按原價續約。至 12/31, 2026（太平洋時間 11:59 PM）止。 |
 | 🤖 | [ONE Personal Assistant](https://brazn.one/en) | 全新的 AI 個人助理，適用於 Windows 與 Mac，由您選擇的 AI 驅動。 | **最高 80% OFF**：個人版 $1/月，按年計費（原價 $5）· 協作版 70% off，$3/月（原價 $10）· 團隊版 66% off，每位使用者 $5/月（原價 $15） 11/27 – 11/30 |
 | 🎙️ | [VoxWrite](https://voxwrite.app/?utm_source=trungdq88-blackfriday#pricing) | 適用於 Chrome、Edge 與 Brave 的語音轉文字瀏覽器擴充功能：在任何文字欄位中說話，即可將您的話語轉錄並改寫為完整的電子郵件、訊息、貼文或筆記，並依各網站設定加上標點與風格或語言。可自備 OpenAI、Anthropic 或 Gemini 金鑰，或使用託管方案。 | 使用折扣碼 **BF2026**，終身版（自備 API 金鑰）享 **30% OFF**：~~€39.99~~ **€27.99**，一次性。使用折扣碼 **BF2026SAAS**，託管 SaaS 方案前 4 個月享 **30% OFF**：~~€7.99~~ **€5.59**/月（7 天免費試用）。**11/27 – 12/31, 2026** |
+| 🏢 | [TaskVille](https://taskville.co/?utm_source=awesome-black-friday&utm_medium=deal-list&utm_campaign=bf2026) | 一個虛擬辦公室，您可以在其中聘請一支 AI 代理團隊，彼此交接工作：貼文、圖片、短影片、3D 動態圖形、潛在客戶研究、收件匣和財務。可連接您自己的 AI 訂閱，或從 12 個以上的模型中挑選。不到一分鐘即可上線運作。 | 任何月繳方案首月 **55% OFF**，折扣碼 **BLACK199**：Startup ~~$24~~ **$10.64**、Company ~~$49~~ **$21.72**、Tycoon ~~$99~~ **$43.88**。提供 7 天免費試用。**至 11/30, 2026** |
 
 
 ⬆️ | [回到頂端](#目錄)
@@ -564,6 +572,7 @@
 | 🔌 | [Elaichi](https://elaichi.ai/pricing/?utm_source=awesome-bfcm&utm_medium=deal-list&utm_campaign=bf2026) | 透過單一 MCP 端點，將 ChatGPT、Claude、Cursor 和其他 AI 應用程式連接到 1000+ 個工作應用程式，並提供個人權限和稽核記錄。提供免費方案。 | 使用折扣碼 **BLACKFRIDAY**，任何年繳方案第一年享 **50% OFF**：Gold ~~$120~~ **$60**/使用者/年，Black ~~$216~~ **$108**/使用者/年。限新客戶，11/25 – 12/7, 2026 |
 | 🍿 | [ClipCreator.ai](https://clipcreator.ai/?ref=tonybf) | 在幾分鐘內，而非幾天，製作出精美的無臉影片！以 AI 驅動的精美影片製作，更快成長您的 TikTok、YouTube 或 Instagram。無需任何技能——設定後即可放著不管！其餘交給我們。  | 使用折扣碼 **BF2026**，首月享 40% OFF |
 | 🎬 | [KwaFlux](https://kwaflux.com/pricing?utm_source=github&utm_medium=referral&utm_campaign=github-trungdq88-bf2026) | 適用於 Windows 與 Mac（Apple 晶片）的本機 AI 影片、照片與音訊強化工具：放大、修復、插幀，另有轉檔器、壓縮器與檔案修復。AI 在您自己的 GPU 上執行。 | **最高 35% OFF**：永久授權 $129.99（原價 $199.99），1 年授權首年 $59.99，1 個月授權首月 $19.99。無需折扣碼，結帳時自動套用。11/17 – 11/30, 2026（美國太平洋時間） |
+| 🤖 | [AGNT](https://agnt.gg/pricing?utm_source=trungdq88&utm_medium=github&utm_campaign=bf2026#deal) | 桌面 AI 代理平台：建立可在您自己的電腦或專用雲端執行個體上運作的代理與工作流程。提供適用於 Windows、macOS 和 Linux 的免費應用程式。 | 年繳方案首年 **40% OFF**，折扣碼 **BLACKFRIDAY**（結帳時套用）：Pro ~~$290~~ $174/年，Team ~~$990~~ $594/年。11/18 – 11/30, 2026，太平洋時間晚上 11:59 結束 |
 
 
 ⬆️ | [回到頂端](#目錄)
@@ -648,6 +657,7 @@
 | 🎯 | [Updately](https://updately.ai/pricing?ref=awesome-bfcm) | 用於 LinkedIn 開發信的 AI SDR。它會監看購買意圖、徵才、募資與技術堆疊訊號，研究每位潛在客戶，然後以您的語氣建立連結並跟進，以預約會議。 | 使用折扣碼 **UPDATELYBF30**，前 12 個月享 **30% OFF**：Starter ~~$39~~ **$27.30**/月、Growth ~~$69~~ **$48.30**/月、Scale ~~$99~~ **$69.30**/月。10 天免費試用。優惠至 12/2, 2026 |
 | 🤝 | [BlueChimp](https://www.blue-chimp.com/pricing?utm_source=awesome-bfcm) | 熱線 B2B 潛在客戶搜尋工具：將買家意圖訊號與您的 LinkedIn 人脈比對，找出通往高意圖客戶最溫暖的路徑，並提供適用於 ChatGPT 和 Claude 的 MCP 伺服器。 | Growth 與 Dealflow 方案 **50% OFF**（月繳享 6 個月，年繳享 1 年），使用折扣碼 **BFIntent**（Growth ~~$699~~ $349.50/月，Dealflow ~~$1,200~~ $600/月），11/27 – 11/29，2026 |
 | 🔗 | [snipzr.com](https://www.snipzr.com/pricing?utm_source=awesome-bfcm&utm_medium=deal-list&utm_campaign=bfcm-2026) | 短網址服務，支援自訂網域、QR 碼、UTM 活動追蹤，以及能分辨真人與機器人的點擊分析，另提供 API 以及適用於 Claude 和 ChatGPT 的 MCP 伺服器。提供免費方案。 | Pro 第一年 **50% OFF**，使用折扣碼 **BFCM26**：~~$90~~ **$45**/年（每月 500 個連結、3 個自訂網域、3 個席位）。限新客戶，至 2026 年 12/1。 |
+| 📱 | [AppTrack Ninja](https://apptrack.ninja/pricing?utm_source=awesome-bfcm&utm_medium=deal_list&utm_campaign=bfcm2026) | 為獨立開發者提供的 App Store 情報與 ASO 工具：新上架與熱門應用程式、關鍵字熱度與排名、發行商作品組合、應用程式轉移和競爭對手的 Apple Search Ads，另提供適用於 Claude 和 Cursor 的 MCP 伺服器。提供免費方案。 | **終身 Pro 只要 $89**，一次付清（原為 $69.99/年），無需折扣碼。至 11/30, 2026 |
 
 
 ⬆️ | [回到頂端](#目錄)
@@ -753,6 +763,7 @@
 | ✍️ | [LinkedMash](https://www.linkedmash.com/pricing) | LinkedIn 平台工具：可搜尋的已儲存貼文資料庫、撰寫與排程工具、同步至 Notion 或 Google Sheets，以及 MCP 存取，讓您能在 Claude、ChatGPT 或 Cursor 中開啟資料庫。提供 7 天免費試用，無需信用卡。 | Premium 年繳方案第一年享 **30% OFF**，使用折扣碼 **BF2026**，僅限新訂閱者：~~$99~~ **$69.30**。結帳時輸入折扣碼。續訂價為 $99/年。2026 年 11/27 – 12/1（於歐洲/柏林時間上午 8:59 結束）。 |
 | 🎬 | [UGC Script](https://ugcscript.app/?utm_source=awesome-bfcm&utm_medium=deal-list&utm_campaign=bf2026) | 貼上任何 TikTok、Instagram Reel、YouTube Short 或抖音連結，即可取得附時間戳記的完整逐字稿、開場鉤子及其成功原因，再取得為你的產品改寫的腳本。專為 UGC 創作者和品牌打造：一次處理 50 個連結、支援 30+ 種語言，並可在 Claude 和 ChatGPT 中使用。免費方案：每天 3 部影片，無需帳號。 | 終身版享 **20% OFF**，無需折扣碼：~~$49~~ **$39** 一次性付款。2026 年 11/26 – 11/30，美東時間晚上 11:59 |
 | 🤖 | [WoopSocial](https://www.woopsocial.com/pricing?utm_source=awesome-bfcm) | 讓 Claude、ChatGPT、Cursor、Grok 或任何 AI 代理替您發佈社群媒體貼文。只需一個 API 和官方 MCP 外掛，即可發佈到 Facebook、Instagram、X、LinkedIn、Pinterest、YouTube、TikTok、Threads 和 Bluesky，30 秒內完成設定。免費方案：2 個帳號，無需信用卡。 | 使用折扣碼 **BFCM2026**，Pro 或 Business 方案 12 個月享 **30% OFF**（Pro ~~$19~~ $13.30/月，Business ~~$49~~ $34.30/月），11/26 – 12/1, 2026 |
+| 📣 | [SyncBooster](https://syncbooster.pl/cennik?utm_source=tonydinh&utm_medium=deal_directory&utm_campaign=bf2026) | 波蘭的社群媒體 AI 助理。上傳照片，寫一句話，就能獲得適用於 Facebook、Instagram、LinkedIn、X、YouTube、TikTok（於支援地區）和 Google 商家檔案的成品貼文，並可從同一處發布。免費開始使用，附 100 個代幣。 | 月繳方案前 3 個月 **40% OFF**，折扣碼 **BLACK40**，11/27 – 11/30, 2026（波蘭時間 23:59 結束）。Start ~~129~~ 77.40 PLN、Business ~~249~~ 149.40 PLN、Business Pro ~~449~~ 269.40 PLN／月，含稅。降價前 30 天內最低價格：103.20、199.20、359.20 PLN。 |
 
 
 ⬆️ | [回到頂端](#目錄)
